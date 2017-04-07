@@ -1,6 +1,6 @@
 ## Proyecto Final Bioinfo2017-II
 
-###Avances 1###
+**Avances 1**
 ---
 **Tipo de datos:** Datos genómicos obtenidos del artículo de Zhang *et al.* (2015) resguardados en GenBank bajo el número PRJNA298058. 
 Idealmente, se quería trabajar con los datos de Ripma *et al.* (2014), que trata un género de Boraginaceae, la familia de interés. Sin embargo, los autores no hicieron públicos los datos crudos. 
