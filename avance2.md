@@ -1,4 +1,5 @@
 ##Proyecto final Bioinf2017-II
+
 ###Avances
 Hasta este momento se ha descargado los 27 especies que constituyen el proyecto PRJNA298058 en SRA de NCBI, de los datos obtenidos por Zhang *et al.* (2015) para la familia Vitaceae. Estos datos se descargaron mediante un loop en formato sra y, han sido convertidos en fastaq.gzip mediante sra_toolkit/fastq_dump. 
 Se han obtenido las imágenes para Velvet y Bowtie2 de Biocontainers (ver referencias), así como leído la literatura asociada a su funcionamiento y manuales respectivos. Aún falta conocer en más detalles las opciones para los *paired-end runs*, que son el tipo de datos crudos que obtuvieron Zhang *et al.* (2015). Hasta ahora sólo he 
