@@ -1,6 +1,6 @@
-##Proyecto final Bioinf2017-II
+## Proyecto final Bioinf2017-II
 
-###Avances
+### Avances
 
 Tras conocer en carne viva a qué se refería Zerbino (2008) con que más de 12 GB de memoria RAM para correr Velvet no era lujuría, aunque se tengan los scripts preparados para sólo dejarlos correr y obtener los genomas ensamblados de algunas especies de Vitaceae de los datos de Zhang *et al.* (2015), utilizando diferentes longitudes del valor *k*, esta aspiración se declina puesto que en más de dos semanas no se ha terminado de crear el *Roadmap* por ```velveth``` para **una sola especie**, a partir del cual se creará la gráfica de Bruijin para realizar el ensamblaje.  
 
@@ -12,15 +12,14 @@ La revisión de bibliografía para un genoma más asequible a los recursos de mi
 
 Hay genomas de bacterias disponibles en SRA  bajo el proyecto PRJNA231221.
 
-El [README] (https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Readme.md)  del proyecto en construcción. Es un esquema general, será modificado para dar cabida a esta última opción o meter ambos conjuntos de script.
+El [README](https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Readme.md)  del proyecto en construcción. Es un esquema general, será modificado para dar cabida a esta última opción o meter ambos conjuntos de script.
 
-! [alt text] (https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Captura%20de%20pantalla%20de%202017-05-19%2022:48:19.png)
-! [alt text] [image]
+![alt text](https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Captura%20de%20pantalla%20de%202017-05-19%2022:48:19.png)
+![alt text][image]
 [image]: https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Captura%20de%20pantalla%20de%202017-05-12%2008:02:21.png
 
 
-
-####Referencias
+#### Referencias
 
 + Engel P. & C. Dehio. 2009. Genomics of Host-Restricted Pathogens of the Genus *Bartonella*. *Genome Dyn. Basel, Karger* **6**: 158-169.
 + Guy L., J. R. Kultima & S. G. Andersson. 2010. genoPlotR: comparative gene and genome visualization in R. *Bioinformatics Applications Note* **26**(18): 2334-2335.
