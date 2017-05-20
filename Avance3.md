@@ -16,6 +16,7 @@ El [README](https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Rea
 
 ![alt text](https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Captura%20de%20pantalla%20de%202017-05-19%2022:48:19.png)
 ![alt text][image]
+
 [image]: https://github.com/Lieiad/ProyectoFinalBioinf2017-II/blob/master/Captura%20de%20pantalla%20de%202017-05-12%2008:02:21.png
 
 
