@@ -1,4 +1,4 @@
-##README
+## README
 
 
 A continuación se explica la organización del proyecto, los directorios que lo conforman y el orden de los scripts a correr. 
@@ -23,7 +23,7 @@ A continuación se explica la organización del proyecto, los directorios que lo
       4. *Velvet*. Los resultados de correr Velvet. Es el subdirectorio más extenso, ya que está dividido en subdirectorios por especie, los cuales a su vez, están divididos por directorios que indican el k-mero empleado para hacer el análisis.
       5. *Genomas*. Los genomas finales, divididos en directorios por especie y k-mero empleado.
       
-+ **Metadata.**Los datos de las corridas del proyecto depositado en SRA del que se obtuvieron las secuencias crudas, en un archivo de texto con formato csv. Información adicional sobre la biología de los organismos empleados. Informes sobre las secuencias, proporcionados por los programas corridos.
++ **Metadata.** Los datos de las corridas del proyecto depositado en SRA del que se obtuvieron las secuencias crudas, en un archivo de texto con formato csv. Información adicional sobre la biología de los organismos empleados. Informes sobre las secuencias, proporcionados por los programas corridos.
 
 + **Images**. Gráficas e imágenes, producto del trabajo. Al interior:
 	+ *Bin*. Scripts para realizar cualquier gráfica producida.
